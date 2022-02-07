@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedantk23
-- 👀 I’m interested in ...Web Development , Competetive Programming
-- 🌱 I’m currently learning ...Web D
-- 💞️ I’m looking to collaborate on ... Web D Projects
+- 👀 I’m interested in ...App Development , Competetive Programming
+- 🌱 I’m currently learning ...koltin
+- 💞️ I’m looking to collaborate on ... App Dev Projects
 - 📫 How to reach me ... vedantkhandelwalop@gmail.com
 
 <!---

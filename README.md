@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedantk23
 - 👀 I’m interested in ...App Development , Competetive Programming
-- 🌱 I’m currently learning ...koltin
+- 🌱 I’m currently learning ...kotlin
 - 💞️ I’m looking to collaborate on ... App Dev Projects
 - 📫 How to reach me ... vedantkhandelwalop@gmail.com
 

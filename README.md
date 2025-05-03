@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App Developer & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Flutter+%F0%9F%9A%80+%7C+SwiftUI+%F0%9F%92%BB+%7C+ML+Engineer+in+Making;CS+Student+%F0%9F%93%9A;Building+Apps+and+Solving+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Flutter+%F0%9F%9A%80+%7C+SwiftUI+%F0%9F%92%BB+%7C+ML+Engineer+in+Making;CS+Student+%F0%9F%93%9A;Building+Apps+and+Solving+Real+Problems" alt="Typing SVG" />
 </p>
 
 ---

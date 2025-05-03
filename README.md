@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App Developer & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Flutter+%F0%9F%9A%80+%7C+SwiftUI+%F0%9F%92%BB+%7C+ML+Engineer+in+Making;Final+Year+CS+Student+%F0%9F%93%9A;Building+Apps+and+Solving+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Flutter+%F0%9F%9A%80+%7C+SwiftUI+%F0%9F%92%BB+%7C+ML+Engineer+in+Making;CS+Student+%F0%9F%93%9A;Building+Apps+and+Solving+Real+Problems" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,11 +14,11 @@
   - 📱 Cross-platform apps using **Flutter** and **SwiftUI**  
   - 🤖 ML projects using **Python (NumPy, Pandas, Matplotlib)**  
 - 🌱 Learning:
-  - Backend Development (Python-based)
-  - Property Law and Legal Tech 🏛️
+  - SwiftUi and UIKit
+  - ML Algorithm
 - 👯 I’m looking to collaborate on **App & ML projects**
 - ⚡ Fun facts:
-  - I love **Table Tennis 🏓**, **Chess ♟**, and **Inspirational Books 📖**
+  - I love **Table Tennis 🏓**, **Chess ♟**
 
 ---
 
@@ -51,8 +51,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Khandelwal&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Khandelwal&theme=radical" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantk23&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantk23&theme=radical" alt="Streak Stats" height="180"/>
 </p>
 
 ---
@@ -62,6 +62,9 @@
 ---
 
 ### 📫 Let's Connect
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
+</p>
 
 <p align="center">
   <a href="mailto:vedantkhandelwal156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -70,9 +73,7 @@
 
 ---
 
-### ⚡ Fun Animation
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
-</p>
+
+
 
